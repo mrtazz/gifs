@@ -5,6 +5,12 @@
 - path: avengers/avengers-real-power.gif
   modified_time: 1448381158
   extname: ".gif"
+- path: bring-it-on/bring-it-on-domination.gif
+  modified_time: 1448380453
+  extname: ".gif"
+- path: bring-it-on/bring-it-on-happy-dance.gif
+  modified_time: 1448381867
+  extname: ".gif"
 - path: buffy/buffy-apocalypse.gif
   modified_time: 1448380728
   extname: ".gif"
@@ -50,9 +56,6 @@
 - path: laugh/westbrook-laugh.gif
   modified_time: 1448380949
   extname: ".gif"
-- path: misc/bring-it-on-domination.gif
-  modified_time: 1448380453
-  extname: ".gif"
 - path: misc/drake-lint.gif
   modified_time: 1448380899
   extname: ".gif"
@@ -64,4 +67,7 @@
   extname: ".gif"
 - path: misc/ghostbusters-test-success.gif
   modified_time: 1448380927
+  extname: ".gif"
+- path: vampire-diaries/vampire-diaries-group-hug.gif
+  modified_time: 1448381777
   extname: ".gif"
