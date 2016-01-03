@@ -5,7 +5,7 @@ require 'fileutils'
 require 'yaml'
 
 def dir_blacklist
-  ["css", "sass", "script"]
+  ["css", "sass", "script", "vendor"]
 end
 
 def useless?(f)
