@@ -68,6 +68,12 @@
 - path: excited/yum-emma-stone-delicious.gif
   modified_time: 1448412660
   extname: ".gif"
+- path: ghost-in-the-shell/logging-off.gif
+  modified_time: 1463709704
+  extname: ".gif"
+- path: ghost-in-the-shell/logging-on.gif
+  modified_time: 1463709884
+  extname: ".gif"
 - path: gossip-girl/gossip-girl-blair-happy.gif
   modified_time: 1448412660
   extname: ".gif"
@@ -85,6 +91,15 @@
   extname: ".gif"
 - path: gossip-girl/gossip-girl-vanessa-pain.gif
   modified_time: 1448412660
+  extname: ".gif"
+- path: hackers/copying.gif
+  modified_time: 1463710032
+  extname: ".gif"
+- path: hackers/hacking.gif
+  modified_time: 1463710065
+  extname: ".gif"
+- path: hackers/transfer.gif
+  modified_time: 1463710111
   extname: ".gif"
 - path: haters/jennifer_lawrence.gif
   modified_time: 1463277420
