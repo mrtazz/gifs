@@ -116,6 +116,33 @@
 - path: ghost-in-the-shell/logging-on.gif
   modified_time: 1463709884
   extname: ".gif"
+- path: ghostbusters/bad-coffee.gif
+  modified_time: 1484102444
+  extname: ".gif"
+- path: ghostbusters/big-twinkie.gif
+  modified_time: 1484102924
+  extname: ".gif"
+- path: ghostbusters/boom.gif
+  modified_time: 1484102511
+  extname: ".gif"
+- path: ghostbusters/lets-do-this.gif
+  modified_time: 1484102413
+  extname: ".gif"
+- path: ghostbusters/new-toys.gif
+  modified_time: 1484102778
+  extname: ".gif"
+- path: ghostbusters/test-success.gif
+  modified_time: 1448412660
+  extname: ".gif"
+- path: ghostbusters/what.gif
+  modified_time: 1484102735
+  extname: ".gif"
+- path: ghostbusters/whhaaaaattt.gif
+  modified_time: 1484102834
+  extname: ".gif"
+- path: ghostbusters/whoa.gif
+  modified_time: 1484102542
+  extname: ".gif"
 - path: gossip-girl/gossip-girl-blair-happy.gif
   modified_time: 1448412660
   extname: ".gif"
@@ -197,14 +224,17 @@
 - path: misc/ghost-ride-the-whip.gif
   modified_time: 1448412660
   extname: ".gif"
-- path: misc/ghostbusters-test-success.gif
-  modified_time: 1448412660
-  extname: ".gif"
 - path: misc/lebron-violin.gif
   modified_time: 1450560984
   extname: ".gif"
 - path: misc/spice-world_manta-ray.gif
   modified_time: 1463709366
+  extname: ".gif"
+- path: superman/hat-tip.gif
+  modified_time: 1484103162
+  extname: ".gif"
+- path: superman/shrug.gif
+  modified_time: 1484103060
   extname: ".gif"
 - path: vampire-diaries/happy-face.gif
   modified_time: 1463276718
