@@ -146,6 +146,12 @@
 - path: ghostbusters/whoa.gif
   modified_time: 1485177429
   extname: ".gif"
+- path: gossip-girl/coffee.gif
+  modified_time: 1487197937
+  extname: ".gif"
+- path: gossip-girl/goodbye.gif
+  modified_time: 1487197953
+  extname: ".gif"
 - path: gossip-girl/gossip-girl-blair-happy.gif
   modified_time: 1448384066
   extname: ".gif"
@@ -163,6 +169,15 @@
   extname: ".gif"
 - path: gossip-girl/gossip-girl-vanessa-pain.gif
   modified_time: 1448380626
+  extname: ".gif"
+- path: gossip-girl/new-york.gif
+  modified_time: 1487197988
+  extname: ".gif"
+- path: gossip-girl/secrets.gif
+  modified_time: 1487197968
+  extname: ".gif"
+- path: gossip-girl/shut-up.gif
+  modified_time: 1487197921
   extname: ".gif"
 - path: hackers/copying.gif
   modified_time: 1464202886
