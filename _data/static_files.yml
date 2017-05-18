@@ -149,6 +149,36 @@
 - path: ghostbusters/whoa.gif
   modified_time: 1485177429
   extname: ".gif"
+- path: gilmore-girls/am-excitement.gif
+  modified_time: 1495114071
+  extname: ".gif"
+- path: gilmore-girls/coffee-cynicism.gif
+  modified_time: 1495114137
+  extname: ".gif"
+- path: gilmore-girls/coffee-iv.gif
+  modified_time: 1495114086
+  extname: ".gif"
+- path: gilmore-girls/comebacks.gif
+  modified_time: 1495114037
+  extname: ".gif"
+- path: gilmore-girls/disappointment.gif
+  modified_time: 1495114005
+  extname: ".gif"
+- path: gilmore-girls/hero.gif
+  modified_time: 1495114051
+  extname: ".gif"
+- path: gilmore-girls/i-love-coffee.gif
+  modified_time: 1495114169
+  extname: ".gif"
+- path: gilmore-girls/knowing-things.gif
+  modified_time: 1495113985
+  extname: ".gif"
+- path: gilmore-girls/sarcasm.gif
+  modified_time: 1495114022
+  extname: ".gif"
+- path: gilmore-girls/what.gif
+  modified_time: 1495113653
+  extname: ".gif"
 - path: gossip-girl/coffee.gif
   modified_time: 1487197937
   extname: ".gif"
@@ -259,6 +289,9 @@
   extname: ".gif"
 - path: misc/lebron-violin.gif
   modified_time: 1448917509
+  extname: ".gif"
+- path: misc/party-is-over.gif
+  modified_time: 1495113611
   extname: ".gif"
 - path: misc/spice-world_manta-ray.gif
   modified_time: 1464202886
