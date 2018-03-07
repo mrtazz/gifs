@@ -65,6 +65,9 @@
 - path: bring-it-on/bring-it.gif
   modified_time: 1464277851
   extname: ".gif"
+- path: bring-it-on/btw.gif
+  modified_time: 1520446515
+  extname: ".gif"
 - path: bring-it-on/nope.gif
   modified_time: 1464277774
   extname: ".gif"
@@ -74,8 +77,14 @@
 - path: bring-it-on/nope3.gif
   modified_time: 1464278214
   extname: ".gif"
+- path: bring-it-on/nope4.gif
+  modified_time: 1520446501
+  extname: ".gif"
 - path: bring-it-on/sorry.gif
   modified_time: 1464277937
+  extname: ".gif"
+- path: bring-it-on/strong-loud.gif
+  modified_time: 1520446459
   extname: ".gif"
 - path: bring-it-on/thanks.gif
   modified_time: 1464277881
