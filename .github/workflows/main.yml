@@ -21,10 +21,12 @@ jobs:
       with:
         ruby-version: '2.x'
     - name: bundle install
-      run: bundle install
+      run: |
+        gem install bundler
+        bundle install
     - name: Build site site index
       run: |
-        ./script/build_site_index
+        bundle exec ./script/build_site_index
     - name: commit
       run: |
         git config --local user.email "action@github.com"
