@@ -2,5 +2,5 @@
 
 Storage place for all my favorite gifs.
 
-This is totally forked from [https://github.com/jglovier/gifs](), so go there
-for the source.
+This was originally forked from [https://github.com/jglovier/gifs]() but I
+removed the jekyll dependency.

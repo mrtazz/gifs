@@ -1,9 +1,9 @@
 name: Build site index
 on:
-  push:
+  pull_request:
+    types: [opened, synchronize, labeled]
     paths-ignore:
-    - '_data/static_files.yml'
-    - '_includes/site-index.html'
+      - 'index.html'
 
 jobs:
   build:
@@ -17,22 +17,23 @@ jobs:
       run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
       id: vars
     - uses: actions/checkout@v1
-    - uses: actions/setup-ruby@v1
+
+    - name: Set up Go 1.17
+      uses: actions/setup-go@v1
       with:
-        ruby-version: '2.x'
-    - name: bundle install
+        go-version: 1.17
+      id: go
+
+    - name: Build site index
       run: |
-        gem install bundler
-        bundle install
-    - name: Build site site index
-      run: |
-        bundle exec ./script/build_site_index
+        go run ./script/build_site.go
+
     - name: commit
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add _includes/site-index.html _data/static_files.yml
-        git commit -m "update site index"
+        git add index.html
+        git commit -m "update site"
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
