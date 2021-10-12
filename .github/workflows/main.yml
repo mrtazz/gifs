@@ -12,10 +12,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: set variables
-      shell: bash
-      run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
-      id: vars
     - uses: actions/checkout@v1
 
     - name: Set up Go 1.17
@@ -34,8 +30,9 @@ jobs:
         git config --local user.name "GitHub Action"
         git add index.html
         git commit -m "update site" --allow-empty
+
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: ${{ steps.vars.outputs.branch }}
+        branch: ${{ github.event.pull_request.head.ref }}
